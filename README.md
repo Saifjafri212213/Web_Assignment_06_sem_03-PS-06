@@ -68,5 +68,27 @@ npm run dev
 ## Deployment
 Frontend includes `vercel.json` (SPA rewrite). Set `VITE_API_URL` on the host, and `CLIENT_URL` on the backend.
 
-## Screenshots / Live URL
+## Screenshots
+
+| Login | Menu |
+|---|---|
+| ![Login](screenshots/1-login.png) | ![Menu](screenshots/2-menu.png) |
+
+| Menu filters (veg + category) | Cart |
+|---|---|
+| ![Filters](screenshots/3-menu-filter.png) | ![Cart](screenshots/4-cart.png) |
+
+| Order bill | My orders |
+|---|---|
+| ![Bill](screenshots/5-order-bill.png) | ![My orders](screenshots/6-my-orders.png) |
+
+| Admin orders | Admin dashboard |
+|---|---|
+| ![Admin orders](screenshots/7-admin-orders.png) | ![Dashboard](screenshots/8-admin-dashboard.png) |
+
+| Admin tables | Admin menu |
+|---|---|
+| ![Tables](screenshots/9-admin-tables.png) | ![Admin menu](screenshots/10-admin-menu.png) |
+
+## Live URL
 _Add after deployment._

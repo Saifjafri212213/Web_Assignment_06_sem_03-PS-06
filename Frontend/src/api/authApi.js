@@ -1,0 +1,8 @@
+import api from './client';
+
+const authApi = {
+  login: (data) => api.post('/auth/login', data),
+  register: (data) => api.post('/auth/register', data),
+};
+
+export default authApi;

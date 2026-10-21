@@ -1,0 +1,20 @@
+{
+  "name": "ps-06-backend",
+  "version": "1.0.0",
+  "description": "Restaurant Menu & Table Order System - API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "seed": "node seed.js"
+  },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^8.17.0"
+  }
+}
